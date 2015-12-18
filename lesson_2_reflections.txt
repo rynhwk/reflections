@@ -4,5 +4,18 @@ What happens when you initialize a repository? Why do you need to do it?
 	start keeping track of the files.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-	Staging area is different from the working directory and the repository in a sense that it is in a none static state.
-	It is in the middle between the two stages. It offers the users the freedom to choose what files goes into the commit.
+	Staging area is different from the working directory and the repository in a sense that it 
+	is in a none static state. It is in the middle between the two stages. It offers the users
+	the freedom to choose what files goes into the commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	You can use the command "git diff" to see the changes you have made between the working
+	directory and the staging area. You can also revert back to the previous commit, or exclude
+	certain file using trackback commands if you need to.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Branches are helpful when you want to try out an overhaul of a considerable amount on your code or projects. It is comfortable to use branch when you want to try out different new ideas on your project.
+
+How do the diagrams help you visualize the branch structure?
+	Diagrams help visualizing the branch structure by laying it out like tree branches. We have often seen these kind of diagrams when explaining time travel theories.
+
