@@ -19,3 +19,12 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 	Diagrams help visualizing the branch structure by laying it out like tree branches. We have often seen these kind of diagrams when explaining time travel theories.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Merging is applying the changes that has been made to the main file. It only makes sense to draw the diagram as if two branches are 'merging' into a single branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Merging manually can be tedious, but at the end of the day merging manually will be always 
+	better at determining what to keep and what to leave out compared to letting the computer 
+	automatically determine.
+
+
